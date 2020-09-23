@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "auth/login":{
+    "status":"ok",
+    "message":"login işlemi başarılı."
   }
 }
