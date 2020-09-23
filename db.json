@@ -12,7 +12,9 @@
     "name": "typicode"
   },
   "auth":{
-    "status":"ok",
-    "message":"login işlemi başarılı."
+    "login":{
+      "status":"ok",
+      "message":"login işlemi başarılı."
+    }
   }
 }
