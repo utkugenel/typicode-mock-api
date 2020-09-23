@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": "aaa", "title": "Post 1" },
+    { "id": "bbb", "title": "Post 2" },
+    { "id": "ccc", "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -11,10 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "auth":{
-    "login":{
+  "auth-login":{
       "status":"ok",
       "message":"login işlemi başarılı."
-    }
   }
 }
