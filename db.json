@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "auth/login":{
+  "auth":{
     "status":"ok",
     "message":"login işlemi başarılı."
   }
